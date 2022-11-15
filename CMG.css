@@ -1,0 +1,39 @@
+h1{
+	font-family: Tahoma;
+	color: white;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-shadow: 2px 2px #049828;
+	text-align: center;
+}
+p{
+	text-indent: 25px;
+	color: whitesmoke;
+	text-align: center;
+
+}
+span{
+	text-decoration: underline;
+	font-variant: small-caps;
+}
+
+body{
+	background-color: #444D56; 
+	text-align: center;
+}
+
+img{
+	border-style: groove;
+	border-color: whitesmoke;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+small{
+	color: whitesmoke;
+	text-align: center;
+}
+
+
