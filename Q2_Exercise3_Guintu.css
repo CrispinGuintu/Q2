@@ -1,0 +1,21 @@
+img{
+	border-style: solid;
+	border-color: blue;
+}
+
+h1{
+	font-family: Arial;
+}
+ul{
+	font-family: Tahoma;
+}
+
+body{
+	margin-left: 50px;
+	margin-top: 25px;
+}
+
+.Div2{
+	background-color: gray;
+	padding: 2px 12px 2px;
+}
